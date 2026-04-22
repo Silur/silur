@@ -1,5 +1,5 @@
 # Hi I'm Silur :fox_face:
-
+![](https://webpets-flame.vercel.app/generated/fox/red_run_8fps.gif)
 I like to hack stuff and build things that my hacker friends can't break. :lock:
 
 I'm also a cryptographer and a quantum-computing researcher at [Wigner Research Center of Physics](https://wigner.hu/) :electron:
